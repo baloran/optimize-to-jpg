@@ -25,6 +25,7 @@ cd optimize-to-png
 Put your image in the img folder...
 
 > in the project folder
+
 ```bash
 gulp
 ```
