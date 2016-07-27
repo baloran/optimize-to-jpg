@@ -1,0 +1,17 @@
+{
+  "name": "opti-image",
+  "version": "1.0.0",
+  "description": "Convert and optimize .jpg & .png to .jpg",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baloran aka Arnaud Allouis <hello@baloran.fr>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gm": "0.0.8",
+    "gulp-imagemin": "^3.0.2"
+  }
+}
